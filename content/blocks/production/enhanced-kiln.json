@@ -1,0 +1,29 @@
+{
+    "type": "GenericSmelter",
+    "size": 2,
+    "health": 230,
+    
+    "idleSound": "machine",
+    "craftEffect": "formsmoke",
+    "hasPower": true,
+    "hasLiquids": false,
+    "hasItems": true,
+    "itemCapacity": 12,
+    "craftTime": 15,
+    "consumes": {
+        "power": 0.4,
+        "items":{
+            "items": [
+            {"item": "iron", "amount": 1},
+            {"item": "coal", "amount": 2}
+        ]    
+        },
+    },
+    "requirements": [
+        { "item": "copper", "amount": 140},
+        { "item": "lead", "amount": 200 },
+        { "item": "graphite", "amount": 70}
+    ],
+    "category": "crafting",
+    "outputItem":{"item": "steel", "amount": 1}
+}
