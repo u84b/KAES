@@ -24,6 +24,7 @@
         { "item": "lead", "amount": 200 },
         { "item": "graphite", "amount": 70}
     ],
+    "flameColor": "#6ed1ff",
     "category": "crafting",
     "outputItem":{"item": "steel", "amount": 1}
 }
