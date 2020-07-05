@@ -36,8 +36,7 @@
             "homingPower": 3,
             "homingRange": 60,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
-            "bulletSprite": "doshik"
+            "smokeEffect": "shootSmallSmoke"
         },
         "shootSound": "artillery"
     }
