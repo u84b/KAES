@@ -16,10 +16,10 @@
 		"spacing": 4,
 		"bullet": {
 			"type": "BasicBulletType",
-			"speed": 10,
-			"damage": 10,
-			"bulletWidth": 6,
-			"bulletHeight": 6,
+			"speed": 0.9,
+			"damage": 50,
+			"bulletWidth": 3,
+			"bulletHeight": 3,
 			"hitEffect": "hitLaser",
             "despawnEffect": "hitLaser",
 			"shootEffect": "shootSmall",
@@ -29,7 +29,7 @@
 			"homingRange": 60,
 			"knockback": 0.15,
 			"hitShake": 0.25,
-			"drag": -0.01,
+			"drag": 0.01,
 			"frontColor": "#8803fc"
 		}
 	}
