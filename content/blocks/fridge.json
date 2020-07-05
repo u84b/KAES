@@ -2,7 +2,7 @@
 	"type": "CoreBlock",
 	"destructible": false
 	"health": 45000
-	"mech": "alphaMech"
+	"mech": "alpha"
 	"itemCapacity": 15000
 	"size": 4
 }
