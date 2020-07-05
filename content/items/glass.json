@@ -1,6 +1,4 @@
 {
-    "type": "resource",
-    "name": "Glass",
-    "description": "We have metalglass, why not add glass?",
-    "color": "e6e6e6",
+    "type": "material",
+    "color": "#e6e6e6"
 }
