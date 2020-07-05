@@ -1,0 +1,23 @@
+{
+	"name": "Iron drill",
+	"description": "Drill from iron",
+	"type": "Drill",
+	"size": 3,
+	"tier": 2,
+	"drillTime": 250,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "iron", "amount": 80 },
+		{ "item": "copper", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "conveyor"
+}
