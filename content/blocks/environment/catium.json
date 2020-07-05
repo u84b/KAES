@@ -1,6 +1,6 @@
 {
     "type": "OreBlock",
-    "itemDrop": "iron",
+    "itemDrop": "catium",
     "oreDefault": true,
     "oreScale": 24.01,
     "oreThreshold": 0.879
