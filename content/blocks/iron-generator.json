@@ -1,8 +1,6 @@
 {
 	"type": "SingleTypeGenerator",
-	"name": "Generator v2",
-	"description": "Generator work on the coal. This generator build from a iron",
-	"size": 2,
+	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
 	"itemDuration": 30,
@@ -10,16 +8,15 @@
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "iron", "amount": 1 }
+				{ "item": "iron", "amount": 2 }
 			],
 			"optional": true
 		}
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 80 },
-		{ "item": "iron", "amount": 60 },
+		{ "item": "steel", "amount": 60 },
 		{ "item": "copper", "amount": 50 }
 	],
-	"category": "power",
-	"research": "conveyor"
+	"category": "power"
 }
