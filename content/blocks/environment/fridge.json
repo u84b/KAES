@@ -1,0 +1,8 @@
+{
+	"type": "CoreBlock",
+	"destructible": false
+	"health": 18000
+	"mech": "alpha"
+	"itemCapacity": 15000
+	"size": 4
+}
