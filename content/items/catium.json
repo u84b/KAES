@@ -1,5 +1,5 @@
 {
-    "type": "resource",
+    "type": "material",
     "hardness": 3,
     "radioactivity": 0.9,
     "color": "2faf7a"
