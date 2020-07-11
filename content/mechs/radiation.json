@@ -1,15 +1,15 @@
 {
   "type": "Mech",
   "flying": false,
-  "boostSpeed": 1.52,
+  "boostSpeed": 1.2,
   "health": 380,
   "buildPower": 3.6,
-  "drillPower": 1.9,
+  "drillPower": 3,
   "engineSize": 3,
-  "engineOffset": 7,
-  "engineColor": "#62ae7e",
-  "mass": 2,
-  "maxSpeed": 2.3,
+  "engineOffset": 5.5,
+  "engineColor": "#44bb66",
+  "mass": 2.1,
+  "maxSpeed": 3,
   "itemCapacity": 70,
   "canHeal": true,
   "weapon": {
@@ -18,16 +18,16 @@
     "alternate": false,
     "shotDelay": 19,
     "bullet": {
-      "speed": 4.8,
-      "damage": 78,
+      "speed": 5.5,
+      "damage": 100,
       "splashDamageRadius": 3,
       "hitEffect": "hitLaser",
       "despawnEffect": "hitLaser",
-      "shootEffect": "hitLaser",
-      "smokeEffect": "hitLaser",
-      "splashDamage": 0.5,
-      "drawSize": 100,
-      "drag": 0.1
+      "shootEffect": "shoot",
+      "smokeEffect": "shoot",
+      "splashDamage": 1,
+      "drawSize": 125,
+      "drag": 0.2
     }
   }
 }
