@@ -1,0 +1,32 @@
+{
+  "type": "Mech",
+  "flying": false,
+  "health": 380,
+  "buildPower": 2.3,
+  "drillPower": 1.5,
+  "engineSize": 3,
+  "engineOffset": 7,
+  "engineColor": "#4dffac",
+  "mass": 2,
+  "maxSpeed": 0.9,
+  "itemCapacity": 70,
+  "canHeal": true,
+  "weapon": {
+    "name": "radiation-weapon",
+    "reload": 23,
+    "alternate": false,
+    "shotDelay": 19,
+    "lengthRand": 0.8,
+    "bullet": {
+      "speed": 4.8,
+      "damage": 78,
+      "splashDamageRadius": 3,
+      "hitEffect": "hitLaser",
+      "despawnEffect": "hitLaser",
+      "shootEffect": "hitLaser",
+      "smokeEffect": "hitLaser",
+      "splashDamage": 0.5,
+      "drawSize": 50
+    }
+  }
+}

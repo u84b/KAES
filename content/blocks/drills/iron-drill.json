@@ -1,12 +1,10 @@
 {
-	"name": "Iron drill",
-	"description": "Drill from iron",
 	"type": "Drill",
 	"size": 3,
 	"tier": 2,
 	"drillTime": 250,
 	"consumes": {
-		"power": 3.0,
+		"power": 1.8,
 		"liquid": {
 			"liquid": "water", 
 			"amount": 0.1,

@@ -17,7 +17,7 @@
             {"item": "iron", "amount": 1},
             {"item": "coal", "amount": 2}
         ]    
-        },
+        }
     },
     "requirements": [
         { "item": "copper", "amount": 140},
