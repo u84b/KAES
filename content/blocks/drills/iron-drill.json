@@ -1,20 +1,20 @@
 {
 	"type": "Drill",
 	"size": 3,
-	"tier": 2,
+	"tier": 3,
 	"drillTime": 250,
 	"consumes": {
 		"power": 1.8,
 		"liquid": {
 			"liquid": "water", 
-			"amount": 0.1,
+			"amount": 0.09,
 			"booster": true
 		}
 	},
 	"requirements": [
 		{ "item": "steel", "amount": 80 },
-		{ "item": "copper", "amount": 40 },
-		{ "item": "graphite", "amount": 20 }
+		{ "item": "copper", "amount": 140 },
+		{ "item": "graphite", "amount": 70 }
 	],
 	"category": "production"
 }

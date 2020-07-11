@@ -1,15 +1,15 @@
 {
   "type": "Mech",
   "flying": false,
-  "boostSpeed": 0.50,
+  "boostSpeed": 1.52,
   "health": 380,
-  "buildPower": 2.3,
+  "buildPower": 3.6,
   "drillPower": 1.9,
   "engineSize": 3,
   "engineOffset": 7,
-  "engineColor": "#4dffac",
+  "engineColor": "#62ae7e",
   "mass": 2,
-  "maxSpeed": 1.3,
+  "maxSpeed": 2.3,
   "itemCapacity": 70,
   "canHeal": true,
   "weapon": {
@@ -17,7 +17,6 @@
     "reload": 20,
     "alternate": false,
     "shotDelay": 19,
-    "lengthRand": 0.8,
     "bullet": {
       "speed": 4.8,
       "damage": 78,

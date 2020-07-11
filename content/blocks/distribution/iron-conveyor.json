@@ -1,10 +1,10 @@
 {
 	"type": "Conveyor",
 	"requirements": [
-		{"item": "copper", "amount": 1},
-		{"item": "lead", "amount": 1},
+		{"item": "copper", "amount": 5},
+		{"item": "lead", "amount": 3},
 		{"item": "steel", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.12
+	"speed": 0.10
 }
