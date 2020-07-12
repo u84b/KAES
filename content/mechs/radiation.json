@@ -27,7 +27,7 @@
       "smokeEffect": "hitLaser",
       "splashDamage": 1,
       "drawSize": 125,
-      "drag": 0.2
+      "drag": 0.0002
     }
   }
 }
