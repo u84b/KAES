@@ -13,7 +13,6 @@
   "itemCapacity": 70,
   "canHeal": true,
   "weapon": {
-    "name": "radiation-weapon",
 	"type": "MissileBulletType",
 	"lifetime": 120,
 	"frontColor": "84f490",
