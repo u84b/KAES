@@ -2,7 +2,7 @@
   "type": "Mech",
   "flying": false,
   "boostSpeed": 1.2,
-  "health": 380,
+  "health": 400,
   "buildPower": 3.6,
   "drillPower": 3,
   "engineSize": 3,
@@ -20,14 +20,14 @@
     "bullet": {
       "speed": 5.5,
       "damage": 100,
-      "splashDamageRadius": 3,
+      "splashDamageRadius": 8,
       "hitEffect": "nuclearShockwave",
       "despawnEffect": "nuclearShockwave",
       "shootEffect": "hitLaser",
       "smokeEffect": "hitLaser",
       "splashDamage": 1,
       "drawSize": 125,
-      "drag": 0.0002
+      "drag": 0.025
     }
   }
 }
