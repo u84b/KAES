@@ -1,0 +1,17 @@
+{
+    "type": "LaserTurret",
+	"shootShake": 0.1,
+	"range": 125,
+	"shootSound": "beam",
+	"reload": 240,
+	"inaccuracy": 10,
+	"shots": 3,
+	"rotatespeed": 5,
+	"hitEffect": "shootBigSmoke2",
+	"smokeEffect": "lancerLaserShootSmoke",
+	"bullet": {
+	    "type": "lancerLaser",
+		"damage": 1000,
+		"drawSize": 400
+		}
+}
